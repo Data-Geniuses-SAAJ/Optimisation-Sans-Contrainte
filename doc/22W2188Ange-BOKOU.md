@@ -3,7 +3,7 @@
 ## 1. Informations générales
 
 * **Nom et prénom : BOKOU-BOUNA-ANGE-LARISSA**  
-* **Matricule :**  
+* **Matricule : 22W2188**  
 * **Rôle dans le projet :** Recherche / Implémentation / Analyse de résultats / Rédacteur
 
 ---
@@ -27,7 +27,7 @@
 * Bonne maîtrise des **méthodes de gradient** (pas fixe / pas optimal, convergence, rôle du Hessien, norme du gradient).
 * Interprétation correcte des **critères d’optimalité** et de la précision numérique (ε, norme du gradient).
 * Capacité à analyser et comparer des méthodes numériques via **tables de convergence** et **visualisations 3D / trajectoires**.
-* Développement avancé en **Python / NumPy / SymPy / Matplotlib** et génération d’un **Notebook scientifique structuré**.
+* Développement avancé en **Python / NumPy / SymPy / Matplotlib** et génération d’un **Notebook structuré**.
 * Utilisation de **Git et GitHub** pour versionner un projet de calcul scientifique.
 
 ### Améliorations possibles
